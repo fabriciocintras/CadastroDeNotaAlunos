@@ -1,0 +1,38 @@
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\bin\Debug\netcoreapp3.1\Cadastro de alunos.exe
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\bin\Debug\netcoreapp3.1\Cadastro de alunos.deps.json
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\bin\Debug\netcoreapp3.1\Cadastro de alunos.runtimeconfig.json
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\bin\Debug\netcoreapp3.1\Cadastro de alunos.runtimeconfig.dev.json
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\bin\Debug\netcoreapp3.1\Cadastro de alunos.dll
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\bin\Debug\netcoreapp3.1\Cadastro de alunos.pdb
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\bin\Debug\netcoreapp3.1\Cadastro de alunos.Views.dll
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\bin\Debug\netcoreapp3.1\Cadastro de alunos.Views.pdb
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.csprojAssemblyReference.cache
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.AssemblyInfoInputs.cache
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.AssemblyInfo.cs
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.csproj.CoreCompileInputs.cache
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.RazorAssemblyInfo.cache
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.RazorAssemblyInfo.cs
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.TagHelpers.input.cache
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.TagHelpers.output.cache
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.RazorCoreGenerate.cache
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detalhe.cshtml.g.cs
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.RazorTargetAssemblyInfo.cache
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.RazorTargetAssemblyInfo.cs
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.Views.pdb
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro de alunos.StaticWebAssets.Manifest.cache
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro de alunos.StaticWebAssets.xml
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.dll
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.pdb
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.genruntimeconfig.cache
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Cadastro de alunos.csproj.CopyComplete
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+C:\Users\Fabrício\Documents\projetos\Cadastro de alunos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listagem.cshtml.g.cs
